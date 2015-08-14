@@ -11,8 +11,13 @@ Record log to file.
 
 ## install service
 
+double click  "install.bat"
+
+
 
 ## uninstall service
+
+double click "uninstall.bat"
 
 
 ## Check 
