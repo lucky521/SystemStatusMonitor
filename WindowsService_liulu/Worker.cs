@@ -11,7 +11,7 @@ namespace WindowsService_liulu
 
         public static void DoWork()
         {
-            Logger logger = new Logger("systemstatus", "C:\\systemstatus");
+            Logger logger = new Logger(config.logname, config.logpath);
 
             while (true)
             {

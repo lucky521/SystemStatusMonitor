@@ -11,9 +11,16 @@ using System.Threading;
 
 namespace WindowsService_liulu
 {
+    public static class config
+    {
+       public const string logname = "test";
+       public const string logpath = @"C:\systemstatuslog";
+    };
+
     public partial class Service1 : ServiceBase
     {
         private Thread worker;
+
 
         public Service1()
         {
@@ -22,7 +29,7 @@ namespace WindowsService_liulu
 
         protected override void OnStart(string[] args)
         {
-            worker = new Thread(Worker.DoWork);
+            worker = new Thread(Worker.DoWork); // start thread to do while job
             worker.Start();
 
         }
@@ -32,7 +39,7 @@ namespace WindowsService_liulu
             if (!worker.Join(3000))
                 worker.Abort();
 
-            Logger logger = new Logger("systemstatus", "C:\\systemstatus");
+            Logger logger = new Logger(config.logname, config.logpath);  // write ending log.
             logger.writelog("Service Stoped.");
 
         }

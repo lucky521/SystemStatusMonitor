@@ -1,8 +1,8 @@
-c:\users\luliu\documents\visual studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\bin\Debug\WindowsService_liulu.exe.config
-c:\users\luliu\documents\visual studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\bin\Debug\WindowsService_liulu.exe
-c:\users\luliu\documents\visual studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\bin\Debug\WindowsService_liulu.pdb
-c:\users\luliu\documents\visual studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.csprojResolveAssemblyReference.cache
-c:\users\luliu\documents\visual studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.exe
-c:\users\luliu\documents\visual studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.pdb
+C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.csprojResolveAssemblyReference.cache
 C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.ProjectInstaller.resources
 C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.csproj.GenerateResource.Cache
+C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\bin\Debug\WindowsService_liulu.exe.config
+C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\bin\Debug\WindowsService_liulu.exe
+C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\bin\Debug\WindowsService_liulu.pdb
+C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.exe
+C:\Users\luliu\Documents\Visual Studio 2013\Projects\WindowsService_liulu\WindowsService_liulu\obj\Debug\WindowsService_liulu.pdb
